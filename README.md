@@ -3,6 +3,7 @@
 ## Setting up
 
 > npm install
+
 > webpack
 
 ## Running tests:
